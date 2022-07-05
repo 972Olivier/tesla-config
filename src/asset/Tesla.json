@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Sélectionnez votre véhicule",
+    "active": true,
+    "inactive": false,
+    "box": [
+      { "description": "Grande autonomie", "price": 90700 },
+      {
+        "description": "Performance",
+        "price": 106700
+      }
+    ]
+  },
+  {
+    "title": "Sélectionnez la couleur",
+    "active": true,
+    "inactive": false,
+    "box": [
+      { "description": "Blanc nacré multicouches", "price": 0 },
+      {
+        "description": "Noir uni",
+        "price": 1000
+      }
+    ]
+  }
+]
